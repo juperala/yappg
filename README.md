@@ -1,7 +1,7 @@
 # yappg
 Yet Another Python Pong Game
 
-Small python exercise project. No active development.
+Implemented as Python exercise project way back. No active development.
 
 ## Requirements
 - Python 3
